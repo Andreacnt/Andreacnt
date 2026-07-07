@@ -4,6 +4,7 @@
 
 ## Progetti
 
+- [**analisi-elezioni-europee**](https://github.com/Andreacnt/analisi-elezioni-europee) — Affluenza e partiti alle Europee 1979-2024 (Python, DuckDB, Matplotlib)
 - [**analisi-tassi-mutui**](https://github.com/Andreacnt/analisi-tassi-mutui) — Tassi mutui Italia per regione 2004-2026 (Python, Power BI, Banca d'Italia)
 - [**analisi-consumo-suolo**](https://github.com/Andreacnt/analisi-consumo-suolo) — Consumo suolo ISPRA 2006-2024 (Python, DuckDB)
 - [**analisi-rna-aiuti**](https://github.com/Andreacnt/analisi-rna-aiuti) — Aiuti di Stato alle imprese 2017-2026 (SQL, DuckDB)
