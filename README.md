@@ -12,8 +12,9 @@
 
 ## Contribuzioni
 
-- [**DataCivicLab**](https://github.com/dataciviclab) — Candidate mergiato: `sbarchi-migranti-italia` (PR [#611](https://github.com/dataciviclab/dataset-incubator/pull/611), issue [#596](https://github.com/dataciviclab/dataset-incubator/issues/596))
-- Mergiato: `aci-prime-iscrizioni-autovetture` (PR [#624](https://github.com/dataciviclab/dataset-incubator/pull/624), issue [#494](https://github.com/dataciviclab/dataset-incubator/issues/494))
+- [**DataCivicLab**](https://github.com/dataciviclab) — Mergiato: `sbarchi-migranti-italia` (PR [#611](https://github.com/dataciviclab/dataset-incubator/pull/611))
+- Mergiato: `aci-prime-iscrizioni-autovetture` (PR [#624](https://github.com/dataciviclab/dataset-incubator/pull/624))
+- In review: `elezioni` — Europee, Referendum, Comunali, Regionali (PR [#633](https://github.com/dataciviclab/dataset-incubator/pull/633))
 - [Dettaglio completo contributi](CONTRIBUTIONS.md)
 
 ## Stack
