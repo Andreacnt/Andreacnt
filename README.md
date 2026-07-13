@@ -8,7 +8,6 @@
 - [**analisi-tassi-mutui**](https://github.com/Andreacnt/analisi-tassi-mutui) — Tassi mutui Italia per regione 2004-2026 (Python, Power BI, Banca d'Italia)
 - [**Dottssa-Ancona**](https://github.com/Andreacnt/Dottssa-Ancona) — Sito web professionale Dott.ssa Graziana Ancona — Nutrizionista
 - [**analisi-rna-aiuti**](https://github.com/Andreacnt/analisi-rna-aiuti) — Aiuti di Stato alle imprese 2017-2026 (SQL, DuckDB)
-- [**SpesaSmart**](https://github.com/Andreacnt/SpesaSmart) — App Android gestione spesa con budget (Kotlin, Jetpack Compose)
 - [**analisi-consumo-suolo**](https://github.com/Andreacnt/analisi-consumo-suolo) — Consumo suolo ISPRA 2006-2024 (Python, DuckDB)
 - [**Brazilian-E-Commerce**](https://github.com/Andreacnt/Brazilian-E-Commerce) — Analisi esplorativa Olist (Python, pandas, Tableau)
 
