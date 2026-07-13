@@ -21,6 +21,8 @@
 - Merged: `aci-prime-iscrizioni-autovetture` (PR [#624](https://github.com/dataciviclab/dataset-incubator/pull/624))
 - In review: `mur-immatricolati` (PR [#643](https://github.com/dataciviclab/dataset-incubator/pull/643))
 - In review: `personale-ssn` (PR [#644](https://github.com/dataciviclab/dataset-incubator/pull/644))
+- In review: `mur-iscritti` (PR [#646](https://github.com/dataciviclab/dataset-incubator/pull/646))
+- In review: `elezioni-politiche` (PR [#647](https://github.com/dataciviclab/dataset-incubator/pull/647))
 - [Dettaglio completo contributi](CONTRIBUTIONS.md)
 
 ## Stack
